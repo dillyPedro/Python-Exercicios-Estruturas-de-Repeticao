@@ -77,3 +77,4 @@ Python 3
 
 📌 Observação:
 
+Este repositório faz parte do meu processo de aprendizado. Projetos mais avançados serão adicionados conforme minha evolução.
